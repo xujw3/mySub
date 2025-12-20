@@ -21,6 +21,9 @@ jobs:
 
     - name: 迁出代码
       uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+        fetch-depth: 0
 
     - name: 安装Python
       uses: actions/setup-python@v3
