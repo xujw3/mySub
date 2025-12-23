@@ -1,7 +1,3 @@
-# CollectProxySource
-
-copy https://github.com/RenaLio/proxy-minging/
-
 ## 说明
 
 Config.yaml	--- 爬取源
