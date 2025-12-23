@@ -87,7 +87,7 @@ def postdata(data):
     else:
         for apiurl in api_urls:
             domain = urlparse(apiurl).netloc
-            masked_url = f"{urlparse(apiurl).scheme}://{domain}/****"
+            masked_url = f"{urlparse(apiurl).scheme}://{domain}/****/api/sub"
             try:
                 # 执行 PATCH 请求
                 response = requests.patch(
@@ -103,7 +103,7 @@ def postdata(data):
                     print(f"❌ 请求失败 ({masked_url}), 状态码: {response.status_code}, 响应: {response.text}")
                     
             except Exception as e:
-                print(f"⚠️ 请求 {apiurl} 时发生异常: {e}")
+                print(f"⚠️ 请求 {masked_url} 时发生异常: {e}")
     
     print("所有 API 处理完成。")
     return
