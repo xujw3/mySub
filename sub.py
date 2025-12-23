@@ -74,12 +74,37 @@ def postdata(data):
         'subscriptions': [],
         'display-name': 'github抓取',
     }
-    apiurl = os.getenv("APIURL")
-    response = requests.patch(
-        f'{apiurl}/hbgx',
-        json=json_data,
-    )
-    return response
+    # 1. 从环境变量获取 APIURL 字符串（建议用逗号分隔，例如：url1,url2,url3）
+    api_env = os.getenv("APIURL", "")
+    
+    # 2. 将字符串拆分为列表，并去除多余空格
+    # 如果 APIURL 为空，则返回空列表
+    api_urls = [url.strip() for url in api_env.split(",") if url.strip()]
+    
+    if not api_urls:
+        print("未找到有效的 APIURL，请检查环境变量设置。")
+    else:
+        for apiurl in api_urls:
+            print(f"正在尝试请求: {apiurl}")
+            try:
+                # 执行 PATCH 请求
+                response = requests.patch(
+                    f'{apiurl.rstrip("/")}/hbgx', # 确保 URL 末尾没有多余的斜杠
+                    json=json_data,
+                    timeout=10 # 建议增加超时设置，防止脚本卡死
+                )
+                
+                # 检查请求结果
+                if response.status_code == 200:
+                    print(f"✅ 成功更新: {apiurl}, 响应: {response.text}")
+                else:
+                    print(f"❌ 请求失败 ({apiurl}), 状态码: {response.status_code}, 响应: {response.text}")
+                    
+            except Exception as e:
+                print(f"⚠️ 请求 {apiurl} 时发生异常: {e}")
+    
+    print("所有 API 处理完成。")
+    return
 
 def getdata(file_path):
     sub_list = []
@@ -124,4 +149,4 @@ if __name__ == "__main__":
     
     # 将合并后的结果转换为字符串
     final_result = '\n'.join(combined_results)
-    print(postdata(final_result).text)
+    postdata(final_result)
