@@ -1,5 +1,6 @@
 import requests
 import os
+from urllib.parse import urlparse
 
 def postdata(data):
     json_data = {
@@ -85,7 +86,8 @@ def postdata(data):
         print("未找到有效的 APIURL，请检查环境变量设置。")
     else:
         for apiurl in api_urls:
-            print(f"正在尝试请求: {apiurl}")
+            domain = urlparse(apiurl).netloc
+            masked_url = f"{urlparse(apiurl).scheme}://{domain}/****"
             try:
                 # 执行 PATCH 请求
                 response = requests.patch(
@@ -96,9 +98,9 @@ def postdata(data):
                 
                 # 检查请求结果
                 if response.status_code == 200:
-                    print(f"✅ 成功更新: {apiurl}, 响应: {response.text}")
+                    print(f"✅ 成功更新: {masked_url}, 响应: {response.text}")
                 else:
-                    print(f"❌ 请求失败 ({apiurl}), 状态码: {response.status_code}, 响应: {response.text}")
+                    print(f"❌ 请求失败 ({masked_url}), 状态码: {response.status_code}, 响应: {response.text}")
                     
             except Exception as e:
                 print(f"⚠️ 请求 {apiurl} 时发生异常: {e}")
