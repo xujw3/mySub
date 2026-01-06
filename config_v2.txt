@@ -1,1 +1,2 @@
+https://su.cokecloudpass.com:8888/api/v1/client/subscribe?token=3eb45db76446bad0b1bf3fd33902e687
 https://fancy.shadowproxy66.workers.dev/sub/5b35ae04-02aa-4b78-acd3-d2df5585ea58#ShadowProxy66
