@@ -5,21 +5,22 @@
 可用流量: 1000000000.0 GB https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=214446242263d12cda87486c8ca350c3
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
 可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes
-可用流量: 16003.38 GB https://3-27-6rr.pages.dev/9b0faee3-b5d1-4fb0-9130-41b4eda3a896?sub
-可用流量: 16003.43 GB http://www.pjw5.top/peng495539229
-可用流量: 16003.03 GB https://go-79m.pages.dev/zhao
-可用流量: 16003.29 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 864.84 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 15430.97 GB http://www.pjw5.top/peng495539229
+可用流量: 15431.5 GB https://3-27-6rr.pages.dev/9b0faee3-b5d1-4fb0-9130-41b4eda3a896?sub
+可用流量: 15431.37 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 15431.41 GB https://go-79m.pages.dev/zhao
 可用流量: 279.98 GB https://ubs.atlantisfly.com/api/subscribe?token=57d822258ad628bdfaa50e12aa1aee0a
-可用流量: 691.46 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 68.35 GB https://scmscjmvjs.583838.xyz/dasfvrnafc/dfsdvv2/gsteyfaf/mnnjhjcd?token=02b51afb33bc98fd734a6ed6b6ad48f7
+可用流量: 68.01 GB https://scmscjmvjs.583838.xyz/dasfvrnafc/dfsdvv2/gsteyfaf/mnnjhjcd?token=02b51afb33bc98fd734a6ed6b6ad48f7
 可用流量: 4096.0 GB https://cp.iranhope.org/sub/javid_shah_pubc2/f01b170ce764e8c89826cdd439002eb2
 可用流量: 617.65 GB http://sub.966888.xyz/api/v1/client/subscribe?token=f1272890ba600633b6e0ef8c609cada6
 可用流量: 666.0 GB https://rss.zyfx6.xyz/clash/
-可用流量: 793.7 GB https://www8th.ga-sub.lat/api/v1/client/subscribe?token=5b293de17123dc4a461bad4ea2280976
+可用流量: 793.62 GB https://www8th.ga-sub.lat/api/v1/client/subscribe?token=5b293de17123dc4a461bad4ea2280976
 可用流量: 8979659.59 GB https://xb.788848.xyz/amei/4a2fdf1c34921d705fd8a14b8b1a4104
-可用流量: 999.76 GB https://xn--mes358aijj3t9a.shop/s/8df6070d86f42d5c03ec5ced15db0ec8
+可用流量: 999.75 GB https://xn--mes358aijj3t9a.shop/s/8df6070d86f42d5c03ec5ced15db0ec8
 可用流量: 990140.51 GB https://youxi.myyfqh.tech/gougoucloud/18ee46bc7cfd23e0386b56f2208f5823
-可用流量: 9999899.48 GB https://www.huaxia.cyou/max/ng?token=94bd162c46fd6bfcd8573d79d9959588
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 9999899.46 GB https://www.huaxia.cyou/max/ng?token=94bd162c46fd6bfcd8573d79d9959588
 
 -- sub_list --
 
@@ -31,6 +32,7 @@ https://34zmr9ko.lao666.cc/lao666/e3004bb365820aa5274348105d015de8
 https://cp.iranhope.org/sub/javid_shah_pubc2/f01b170ce764e8c89826cdd439002eb2
 https://go-79m.pages.dev/zhao
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://rss.zyfx6.xyz/clash/
 https://scmscjmvjs.583838.xyz/dasfvrnafc/dfsdvv2/gsteyfaf/mnnjhjcd?token=d8fadb7f3dd786f7270d00ddee237a8c
 https://sub.pusytroller.cf/?url=freenodes
