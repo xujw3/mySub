@@ -1,30 +1,29 @@
 -- play_list --
 
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
-可用流量: 999999911.92 GB https://xn--mes358aijj3t9a.shop/s/d3473a4e0d5ea653cfbd23bc5e4e7e0d
+可用流量: 999999911.9 GB https://xn--mes358aijj3t9a.shop/s/d3473a4e0d5ea653cfbd23bc5e4e7e0d
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
 可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes
-可用流量: 1478.78 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 135.66 GB https://www.carpetpacific.com/blanket/api/v1/client/subscribe?token=76d74531585caf40e18a6a8c070307b6
-可用流量: 23.42 GB https://101.43.12.60:28364/api/v1/client/subscribe?token=b02d0e743b8d068054951a02ba97f3e2
-可用流量: 275.37 GB https://sub.ssr.sh/link/BPYBF2qrh3u8i5VT?clash=1
-可用流量: 279.98 GB https://bajie.info/api/v1/client/subscribe?token=3c44e4ff71d81e58cf915b44677ea683
+可用流量: 155.16 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 22.87 GB https://101.43.12.60:28364/api/v1/client/subscribe?token=b02d0e743b8d068054951a02ba97f3e2
+可用流量: 835.89 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 253.7 GB https://bajie.info/api/v1/client/subscribe?token=3c44e4ff71d81e58cf915b44677ea683
+可用流量: 275.36 GB https://sub.ssr.sh/link/BPYBF2qrh3u8i5VT?clash=1
 可用流量: 300.0 GB https://yyds.emovpn.top/api/v1/client/subscribe?token=e3564accfb797578dc8251fc07207abe
+可用流量: 32.55 GB https://xn--mnqs5do46a.site/s/6f1c22ee82359c65493566a45b0f7ff1
 可用流量: 356.8 GB https://dash.pqjc.site/api/v1/client/subscribe?token=25612456e52e3b7841472e9b1c3b9194
-可用流量: 39.99 GB https://xn--mnqs5do46a.site/s/6f1c22ee82359c65493566a45b0f7ff1
 可用流量: 394.44 GB http://sub.yunzoa.com/s/388b8c588ccd160b560b211805f55d50
 可用流量: 4096.0 GB https://cp.iranhope.org/sub/javid_shah_pubc2/f01b170ce764e8c89826cdd439002eb2
 可用流量: 500.0 GB https://yun.dashiba.com/api/v1/client/subscribe?token=c5053a3a08a325c302b499ccf00967b3
 可用流量: 617.65 GB http://sub.966888.xyz/api/v1/client/subscribe?token=f1272890ba600633b6e0ef8c609cada6
 可用流量: 666.0 GB https://rss.zyfx6.xyz/clash/
-可用流量: 722.81 GB https://www8th.ga-sub.lat/api/v1/client/subscribe?token=5b293de17123dc4a461bad4ea2280976
-可用流量: 724.88 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 73.05 GB https://s1.byte77.com/api/v1/client/subscribe?token=650e3d6a7f5a130576184b879e012fc5
-可用流量: 8378.11 GB https://ninjasub.com/link/nAqdaBJ1DAkWJrXq?clash=1
+可用流量: 72.95 GB https://s1.byte77.com/api/v1/client/subscribe?token=650e3d6a7f5a130576184b879e012fc5
+可用流量: 720.83 GB https://www8th.ga-sub.lat/api/v1/client/subscribe?token=5b293de17123dc4a461bad4ea2280976
+可用流量: 8371.72 GB https://ninjasub.com/link/nAqdaBJ1DAkWJrXq?clash=1
 可用流量: 99.82 GB https://xn--48sp91b1l4avee.shop/s/b75df3670657439ce649eea29541a3ca
 可用流量: 990140.51 GB https://youxi.myyfqh.tech/gougoucloud/18ee46bc7cfd23e0386b56f2208f5823
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 999.8 GB https://vaamx.louwangzhiyu.online/api/v1/client/subscribe?token=de56d60fd87351581b5ab96894ce65da
+可用流量: 999.78 GB https://vaamx.louwangzhiyu.online/api/v1/client/subscribe?token=de56d60fd87351581b5ab96894ce65da
 可用流量: 9999855.74 GB https://www.huaxia.cyou/max/ng?token=94bd162c46fd6bfcd8573d79d9959588
 
 -- sub_list --
@@ -37,7 +36,6 @@ https://cp.iranhope.org/sub/javid_shah_pubc2/f01b170ce764e8c89826cdd439002eb2
 https://dash.pqjc.site/api/v1/client/subscribe?token=25612456e52e3b7841472e9b1c3b9194
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://ninjasub.com/link/nAqdaBJ1DAkWJrXq?clash=1
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://rss.zyfx6.xyz/clash/
 https://s1.byte77.com/api/v1/client/subscribe?token=650e3d6a7f5a130576184b879e012fc5
 https://sub.pusytroller.cf/?url=freenodes
