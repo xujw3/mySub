@@ -4,23 +4,24 @@
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
 可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes
-可用流量: 1740.98 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 可用流量: 1048576.0 GB https://freesub.zjde5.de5.net/sub
-可用流量: 12395.24 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 12395.46 GB https://rukawa.pages.dev/rukawa
-可用流量: 22.82 GB https://proxyinfo.net/api/v1/client/subscribe?token=1ee76028fe42afa4d11a55408b982a7f
-可用流量: 312.45 GB https://xiongchumo.shop/s/3414ebe3de8d5cb5c21ffaab61c0079f
-可用流量: 459.1 GB https://yuqidingyue.yuqi.best/yuqibest/a1ff55cb0c4ded715d9d6a8087488e38
+可用流量: 11572.99 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 11573.3 GB https://rukawa.pages.dev/rukawa
+可用流量: 18.81 GB https://proxyinfo.net/api/v1/client/subscribe?token=1ee76028fe42afa4d11a55408b982a7f
+可用流量: 537.88 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 290.57 GB https://xiongchumo.shop/s/3414ebe3de8d5cb5c21ffaab61c0079f
+可用流量: 37.27 GB https://www.yfjc.xyz/api/v1/client/subscribe?token=3f48ca4fd2c2bc8ca565e09435ef2ef7&amp;flag=meta
+可用流量: 458.81 GB https://yuqidingyue.yuqi.best/yuqibest/a1ff55cb0c4ded715d9d6a8087488e38
 可用流量: 500.0 GB https://yun.dashiba.com/api/v1/client/subscribe?token=c5053a3a08a325c302b499ccf00967b3
+可用流量: 51.17 GB https://xdyew.lobonet.cn/mdet/wdfs/heuy/?token=ee8116c395b73bf232e10fc76278bce0
+可用流量: 619.45 GB https://taibai0201.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=9611886ea20a5a016e27ba92fc381e1a
 可用流量: 617.65 GB http://sub.966888.xyz/api/v1/client/subscribe?token=f1272890ba600633b6e0ef8c609cada6
 可用流量: 666.0 GB https://rss.zyfx6.xyz/clash/
-可用流量: 67.82 GB https://xdyew.lobonet.cn/mdet/wdfs/heuy/?token=ee8116c395b73bf232e10fc76278bce0
-可用流量: 725.47 GB https://taibai0201.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=9611886ea20a5a016e27ba92fc381e1a
-可用流量: 75.56 GB https://love.lulu.autos/lulu/4dcbbe9e5ef7d4ff58284c5f16789e7a
+可用流量: 75.2 GB https://love.lulu.autos/lulu/4dcbbe9e5ef7d4ff58284c5f16789e7a
 可用流量: 990140.51 GB https://youxi.myyfqh.tech/gougoucloud/18ee46bc7cfd23e0386b56f2208f5823
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 9999663.98 GB https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
-可用流量: 9999694.07 GB https://www.huaxia.cyou/max/ng?token=94bd162c46fd6bfcd8573d79d9959588
+可用流量: 9999663.55 GB https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
+可用流量: 9999693.7 GB https://www.huaxia.cyou/max/ng?token=94bd162c46fd6bfcd8573d79d9959588
 
 -- sub_list --
 
@@ -39,6 +40,7 @@ https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#S
 https://taibai0201.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=9611886ea20a5a016e27ba92fc381e1a
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 https://www.huaxia.cyou/max/ng?token=94bd162c46fd6bfcd8573d79d9959588
+https://www.yfjc.xyz/api/v1/client/subscribe?token=3f48ca4fd2c2bc8ca565e09435ef2ef7&amp;flag=meta
 https://xdyew.lobonet.cn/mdet/wdfs/heuy/?token=ee8116c395b73bf232e10fc76278bce0
 https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
 https://xiongchumo.shop/s/3414ebe3de8d5cb5c21ffaab61c0079f
