@@ -4,21 +4,20 @@
 可用流量: 100.0 GB https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 可用流量: 101373.0 GB https://sub.pusytroller.cf/?url=freenodes
 可用流量: 101373.0 GB https://sub.pusytroller.gq/?url=freenodes
-可用流量: 912.08 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-可用流量: 17942.78 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-可用流量: 23.18 GB https://study.small1999.sbs/study/xuexi/v999/hneko?token=7d0bfb75f363e28262e863e2625354e6
-可用流量: 32.73 GB https://love.lulu.autos/lulu/4dcbbe9e5ef7d4ff58284c5f16789e7a
-可用流量: 37.99 GB https://api.jw82192183.site/v/5bf6e46b882eb0d9df944f42762e9192
-可用流量: 4077.19 GB https://cf.iranhope.org/sub/pub_jnir_2/b31b7bdcf1753ff516c78ca39c026db3
-可用流量: 443.53 GB https://yuqidingyue.yuqi.best/yuqibest/a1ff55cb0c4ded715d9d6a8087488e38
-可用流量: 499.87 GB https://xiongchumo.shop/s/348866ab411dba6a0d9b4eb9e7b09b91
+可用流量: 1697.72 GB https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+可用流量: 16919.28 GB https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+可用流量: 19.5 GB https://api.jw82192183.site/v/5bf6e46b882eb0d9df944f42762e9192
+可用流量: 31.45 GB https://love.lulu.autos/lulu/4dcbbe9e5ef7d4ff58284c5f16789e7a
+可用流量: 4054.57 GB https://cf.iranhope.org/sub/pub_jnir_2/b31b7bdcf1753ff516c78ca39c026db3
+可用流量: 499.97 GB https://xiongchumo.shop/s/ed1375fa81ab0510f4f6a6b69ee7fbd9
+可用流量: 443.04 GB https://yuqidingyue.yuqi.best/yuqibest/a1ff55cb0c4ded715d9d6a8087488e38
 可用流量: 500.0 GB https://yun.dashiba.com/api/v1/client/subscribe?token=c5053a3a08a325c302b499ccf00967b3
+可用流量: 60.18 GB https://www.djjc.cfd/api/v1/client/subscribe?token=d3c44ec80b52bfb55fb5acf523096be5
 可用流量: 617.65 GB http://sub.966888.xyz/api/v1/client/subscribe?token=f1272890ba600633b6e0ef8c609cada6
 可用流量: 666.0 GB https://rss.zyfx6.xyz/clash/
-可用流量: 92.12 GB https://www.djjc.cfd/api/v1/client/subscribe?token=d3c44ec80b52bfb55fb5acf523096be5
 可用流量: 990140.51 GB https://youxi.myyfqh.tech/gougoucloud/18ee46bc7cfd23e0386b56f2208f5823
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 9999587.25 GB https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
+可用流量: 9999585.57 GB https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
 
 -- sub_list --
 
@@ -30,14 +29,13 @@ https://love.lulu.autos/lulu/4dcbbe9e5ef7d4ff58284c5f16789e7a
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://rss.zyfx6.xyz/clash/
-https://study.small1999.sbs/study/xuexi/v999/hneko?token=7d0bfb75f363e28262e863e2625354e6
 https://sub.pusytroller.cf/?url=freenodes
 https://sub.pusytroller.gq/?url=freenodes
 https://sub.shadowproxy66.workers.dev/sub/be80a76c-6044-417c-9bff-e587f9380d05#ShadowProxy66
 https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
 https://www.djjc.cfd/api/v1/client/subscribe?token=d3c44ec80b52bfb55fb5acf523096be5
 https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
-https://xiongchumo.shop/s/c37da79a2bd128e8e799e9a1a0858940
+https://xiongchumo.shop/s/f8f8e1708b4145279604febe7e078718
 https://youxi.myyfqh.tech/gougoucloud/18ee46bc7cfd23e0386b56f2208f5823
 https://yun.dashiba.com/api/v1/client/subscribe?token=c5053a3a08a325c302b499ccf00967b3
 https://yuqidingyue.yuqi.best/yuqibest/a1ff55cb0c4ded715d9d6a8087488e38
