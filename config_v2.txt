@@ -1,2 +1,1 @@
-https://vess.zhuk.dpdns.org/2026/erw/v.txt
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+https://vess.zhuk.dpdns.org/2026/one/v.txt
